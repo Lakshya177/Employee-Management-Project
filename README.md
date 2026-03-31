@@ -87,17 +87,21 @@ Employee_Management_Project
 ## 📷 Screenshots
 <pre>
 <img width="400" height="1040" alt="Screenshot (469)" src="https://github.com/user-attachments/assets/70e398d9-cecd-431a-9493-c522c165e0b1" />
+<img width="400" height="1040" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/2d5f75d4-3f0b-4956-b457-5b8b7ade3580" />
+
 </pre>
 
 ---
 
 ## 📌 Conclusion
 <pre>
-The Employee Management System simplifies the process of managing employee records. It provides an efficient 
-way to store, retrieve, and manage employee data using Java Swing and JDBC. The system reduces manual work and improves data management in an organization.
+The Employee Management System simplifies the process of managing employee records. It provides an efficient way to store, retrieve, 
+and manage employee data using Java Swing and JDBC. The system reduces manual work and improves data management in an organization.
 </pre>
 ---
 
 ## 👨‍💻 Author
+<pre>
 Lakshya Gupta
+</pre>
 
