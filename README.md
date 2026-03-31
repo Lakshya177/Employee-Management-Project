@@ -37,6 +37,7 @@ Employee ID and validates user input data.
 -View All Employees
 -Input Validation
 </pre>
+
 ---
 
 ## 🗄️ Database
@@ -52,6 +53,17 @@ CREATE TABLE employee (
     salary DOUBLE NOT NULL
 );
 </pre>
+
+---
+
+## ✅ Validation Rules
+<pre>
+-No field should be empty
+-Mobile number must be 10 digits
+-Email must contain '@' and '.'
+-Employee ID is auto-generated
+</pre>
+
 ---
 
 ##  📂 Project Structure
@@ -88,20 +100,25 @@ Employee_Management_Project
 <pre>
 <img width="400" height="1040" alt="Screenshot (469)" src="https://github.com/user-attachments/assets/70e398d9-cecd-431a-9493-c522c165e0b1" />
 <img width="400" height="1040" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/2d5f75d4-3f0b-4956-b457-5b8b7ade3580" />
-
+<img width="400" height="1040" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/777090f9-afe7-4340-a611-b8b8ebf4caf8" />
+<img width="400" height="1040" alt="Screenshot (472)" src="https://github.com/user-attachments/assets/75f3e359-f563-456d-ab5c-dfca132fabbc" />
+<img width="400" height="1040" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/ce1f70fc-ef43-49dd-8a02-9ba56e1724dc" />
 </pre>
 
 ---
 
 ## 📌 Conclusion
 <pre>
-The Employee Management System simplifies the process of managing employee records. It provides an efficient way to store, retrieve, 
-and manage employee data using Java Swing and JDBC. The system reduces manual work and improves data management in an organization.
+The Employee Management System is a desktop application built using Java Swing and JDBC to manage employee records.I t performs 
+CRUD operations and includes validation for accurate data entry. This project helped in understanding 
+Java GUI, JDBC connectivity, and database operations.
 </pre>
+
 ---
 
 ## 👨‍💻 Author
 <pre>
 Lakshya Gupta
+Java Developer | Swing | JDBC | MySQL
 </pre>
 
