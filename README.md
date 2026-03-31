@@ -109,8 +109,8 @@ Employee_Management_Project
 
 ## 📌 Conclusion
 <pre>
-The Employee Management System is a desktop application built using Java Swing and JDBC to manage employee records.It performs CRUD 
-operations and includes validation for accurate data entry. This project helped in understanding Java GUI, JDBC connectivity, 
+The Employee Management System is a desktop application built using Java Swing and JDBC to manage employee records.It performs 
+CRUD operations and includes validation for accurate data entry. This project helped in understanding Java GUI, JDBC connectivity, 
 and database operations.
 </pre>
 
