@@ -49,6 +49,7 @@ CREATE TABLE employee (
 
 ##  📂 Project Structure
 Employee_Management_Project
+<br>
 │
 ├── Source Packages
 │     └── default package
@@ -77,7 +78,7 @@ Employee_Management_Project
 ---
 
 ## 📷 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2287d1c5-3d08-4d80-b927-d7ebe0ad2058" />
+
 
 
 ---
