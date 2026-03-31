@@ -1,5 +1,5 @@
 # Employee-Management-Project (Java Swing + JDBC)
-
+<pre>
 ## 📌 Introduction
 The Employee Management System is a desktop application developed using Java Swing and JDBC. The system helps an organization manage employee records by adding, updating, deleting, and viewing employee details. The system automatically generates Employee ID and validates user input data.
 
@@ -90,3 +90,4 @@ The Employee Management System simplifies the process of managing employee recor
 
 ## 👨‍💻 Author
 Lakshya Gupta
+</pre>
