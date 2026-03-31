@@ -1,5 +1,4 @@
 # Employee-Management-Project (Java Swing + JDBC)
-# Employee Management System
 
 ## 📌 Introduction
 The Employee Management System is a desktop application developed using Java Swing and JDBC. The system helps an organization manage employee records by adding, updating, deleting, and viewing employee details. The system automatically generates Employee ID and validates user input data.
@@ -14,47 +13,72 @@ The Employee Management System is a desktop application developed using Java Swi
 
 ---
 
-## 🛠️ Tools & Technologies Used
-- Java (Swing)
-- JDBC
-- MySQL Database
-- NetBeans / Eclipse IDE
+## 🛠️ Technologies Used
+-Java (Core Java)
+-Java Swing
+-JDBC
+-MySQL Database
+-NetBeans 
 
 ---
 
 ## ✨ Features
-- Add New Employee
-- Update Employee Details
-- Delete Employee Record
-- View Employee Record
-- Auto-generated Employee ID
-- Input Validation
-- User-friendly Interface
+-Add Employee
+-Auto Generate Employee ID
+-Search Employee by ID
+-Update Employee Details
+-Delete Employee Record
+-View All Employees
+-Input Validation
 
 ---
 
 ## 🗄️ Database
-- Database Name: employee_db
-- Table Name: employee
-- Fields:
-  - emp_id
-  - emp_name
-  - emp_salary
-  - emp_department
+CREATE DATABASE employee_db;
+USE employee_db;
+CREATE TABLE employee (
+    emp_id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(50) NOT NULL,
+    mobile VARCHAR(10) NOT NULL,
+    email VARCHAR(50) NOT NULL,
+    department VARCHAR(50) NOT NULL,
+    salary DOUBLE NOT NULL
+);
 
 ---
 
-## ▶️ How to Run the Project
-1. Open the project in NetBeans/Eclipse.
-2. Connect the project to MySQL database.
-3. Run the SQL file to create the table.
-4. Run the project.
-5. Add, Update, Delete, View employee records.
+##  📂 Project Structure
+Employee_Management_Project
+│
+├── Source Packages
+│     └── default package
+│            ├── Employee_form.java      (Main JFrame - Dashboard)
+│            ├── Registration.java       (Add Employee JFrame)
+│            ├── ShowAll.java            (Show All Employee JFrame)
+│            ├── Search.java             (Search Employee JFrame)
+│            ├── Update.java             (Update Employee JFrame)
+│            ├── Delete.java             (Delete Employee JFrame)
+│            ├── DBConnection.java       (Database Connection)
+│            ├── Employee.java           (Model Class)
+│            ├── EmployeeDAO.java        (JDBC CRUD Operations)
+│            └── Validation.java         (Validation Code)
+│
+├── Libraries
+│     ├── JDK
+│     └── MySQL Connector Jar
+│
+├── Test Packages
+│     └── (Optional – can create for testing)
+│            └── EmployeeTest.java
+│
+└── Test Libraries
+
 
 ---
 
 ## 📷 Screenshots
-(Add your project screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2287d1c5-3d08-4d80-b927-d7ebe0ad2058" />
+
 
 ---
 
