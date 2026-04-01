@@ -44,13 +44,12 @@ Employee ID and validates user input data.
 <pre>
 CREATE DATABASE employee_db;
 USE employee_db;
-CREATE TABLE employee (
+CREATE TABLE employee_db (
     emp_id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(50) NOT NULL,
-    mobile VARCHAR(10) NOT NULL,
+    empName VARCHAR(50) NOT NULL,
     email VARCHAR(50) NOT NULL,
-    department VARCHAR(50) NOT NULL,
-    salary DOUBLE NOT NULL
+    mobile VARCHAR(10) NOT NULL,
+    city VARCHAR(50) NOT NULL
 );
 </pre>
 
@@ -98,7 +97,7 @@ Employee_Management_Project
 
 ## 📷 Screenshots
 <pre>
-<img width="500" height="444" alt="Screenshot (469)" src="https://github.com/user-attachments/assets/70e398d9-cecd-431a-9493-c522c165e0b1" />     <img width="500" height="444" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/2d5f75d4-3f0b-4956-b457-5b8b7ade3580" />                      <img width="500" height="444" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/777090f9-afe7-4340-a611-b8b8ebf4caf8" />                      <img width="500" height="444" alt="Screenshot (472)" src="https://github.com/user-attachments/assets/75f3e359-f563-456d-ab5c-dfca132fabbc" />                      <img width="500" height="444" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/ce1f70fc-ef43-49dd-8a02-9ba56e1724dc" />
+<img width="500" height="444" alt="Screenshot (469)" src="https://github.com/user-attachments/assets/70e398d9-cecd-431a-9493-c522c165e0b1" />     update      <img width="500" height="444" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/2d5f75d4-3f0b-4956-b457-5b8b7ade3580" />                      <img width="500" height="444" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/777090f9-afe7-4340-a611-b8b8ebf4caf8" />                      <img width="500" height="444" alt="Screenshot (472)" src="https://github.com/user-attachments/assets/75f3e359-f563-456d-ab5c-dfca132fabbc" />                      <img width="500" height="444" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/ce1f70fc-ef43-49dd-8a02-9ba56e1724dc" />
 </pre>
 
 ---
