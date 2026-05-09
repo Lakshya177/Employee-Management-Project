@@ -114,5 +114,8 @@ and database operations.
 ## 👨‍💻 Author
 <pre>
 Lakshya Gupta
-Java Developer | Swing | JDBC | MySQL
+☕ Java Developer  
+🖥️ Swing  
+🔗 JDBC  
+🗄️ MySQL
 </pre>
