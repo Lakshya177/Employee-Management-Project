@@ -19,11 +19,11 @@ ID and validates user input data.
 
 ## 🛠️ Technologies Used
 <pre>
--Java (Core Java)
--Java Swing
--JDBC
--MySQL Database
--NetBeans 
+- ☕ Java (Core Java)
+- 🖥️ Java Swing
+- 🔗 JDBC
+- 🗄️ MySQL Database
+- 💡 NetBeans IDE
 </pre>
 ---
 
