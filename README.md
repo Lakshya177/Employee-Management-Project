@@ -112,8 +112,9 @@ and database operations.
 ---
 
 ## 👨‍💻 Author
+
+**Lakshya Gupta** 
 <pre>
-Lakshya Gupta
 ☕ Java Developer  
 🖥️ Swing  
 🔗 JDBC  
